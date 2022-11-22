@@ -1,9 +1,14 @@
 keyword, language, topic, topicolor, keywordcolor, limitpage, rationew
 "Scholz", de, Deutschland, #e81818, #181818, 1, 1
+"Baerbock", de, Deutschland, #e8e818, #181818, 1, 1
+"Habeck", de, Deutschland, #18e818, #181818, 1, 1
+"Lindner", de, Deutschland, #1818e8, #181818, 1, 1
 "Putin", de, Russland, #18e818, #181818, 1, 1
+"Lavrov", de, Russland, #18e8e8, #181818, 1, 1
 "Gaspreis", de, Energie, #1818e8, #e8e8e8, 1, 1
 "Strompreis", de, Energie, #e818e8, #e8e8e8, 1, 1
 "Krise", de, Energie, #18e8e8, #e8e8e8, 1, 1
-"Ukraine", de, Politik, #e81818, #e8e818, 1, 1
+"Besuch", de, Politik, #e81818, #e8e818, 1, 1
 "Krieg", de, Politik, #1818e8, #e8e818, 1, 1
-"Russland", de, Politik, #e818e8, #e8e818, 1, 1
+"Angriff", de, Politik, #e818e8, #e8e818, 1, 1
+"Treffen", de, Politik, #18e818, #e8e818, 1, 1
